@@ -3,8 +3,8 @@ package utils
 import (
 	"encoding/json"
 	"errors"
-	"github.com/MichaelFraser99/go-sd-jwt/disclosure"
-	"github.com/MichaelFraser99/go-sd-jwt/internal/model"
+	"github.com/SchulzeStTSI/go-sd-jwt/disclosure"
+	"github.com/SchulzeStTSI/go-sd-jwt/internal/model"
 	"reflect"
 	"strings"
 )

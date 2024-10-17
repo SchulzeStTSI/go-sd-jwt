@@ -10,8 +10,8 @@ import (
 	"github.com/MichaelFraser99/go-jose/jwk"
 	"github.com/MichaelFraser99/go-jose/jws"
 	"github.com/MichaelFraser99/go-jose/model"
-	go_sd_jwt "github.com/MichaelFraser99/go-sd-jwt"
-	"github.com/MichaelFraser99/go-sd-jwt/disclosure"
+	go_sd_jwt "github.com/SchulzeStTSI/go-sd-jwt"
+	"github.com/SchulzeStTSI/go-sd-jwt/disclosure"
 	"runtime"
 	"testing"
 )

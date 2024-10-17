@@ -4,7 +4,7 @@ import (
 	"encoding/base64"
 	"encoding/json"
 	"fmt"
-	e "github.com/MichaelFraser99/go-sd-jwt/internal/error"
+	e "github.com/SchulzeStTSI/go-sd-jwt/internal/error"
 	"strings"
 )
 
