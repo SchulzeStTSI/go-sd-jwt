@@ -1,4 +1,4 @@
-module github.com/MichaelFraser99/go-sd-jwt
+module github.com/SchulzeStTSI/go-sd-jwt
 
 go 1.21.5
 
